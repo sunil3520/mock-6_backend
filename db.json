@@ -1,6 +1,59 @@
 {
     "products":[
-        
+        {
+"id" : 1,
+"username" : "chefjulia",
+"title" : "Roasted Red Pepper Hummus",
+"description" : "This delicious hummus is made with roasted red peppers and chickpeas, and is perfect for dipping vegetables or pita chips.",
+"category" : "Starter",
+"ingredients" : ["Chickpeas", "Roasted Red Peppers", "Tahini", "Garlic"],
+"instructions" : "Blend all ingredients until smooth."
+},
+{
+"id" : 2,
+"username" : "cookwithmark",
+"title" : "Butternut Squash Soup",
+"description" : "A creamy and comforting soup made with roasted butternut squash and warm spices.",
+"category" : "Starter",
+"ingredients" : ["Butternut Squash", "Onion", "Garlic", "Chicken Stock"],
+"instructions" : "Roast butternut squash and onion. Blend with chicken stock and spices until smooth."
+},
+{
+"id" : 3,
+"username" : "foodiealice",
+"title" : "Creamy Mushroom Risotto",
+"description" : "A rich and indulgent risotto made with earthy mushrooms and Parmesan cheese.",
+"category" : "Main Course",
+"ingredients" : ["Arborio Rice", "Mushrooms", "Parmesan Cheese", "White Wine"],
+"instructions" : "Sauté mushrooms and onion. Add rice and wine. Gradually add broth until rice is cooked. Stir in Parmesan cheese."
+},
+{
+"id" : 4,
+"username" : "thehealthychef",
+"title" : "Quinoa Stuffed Bell Peppers",
+"description" : "A healthy and flavorful vegetarian dish made with quinoa, black beans, and bell peppers.",
+"category" : "Main Course",
+"ingredients" : ["Quinoa", "Bell Peppers", "Black Beans", "Tomatoes"],
+"instructions" : "Cook quinoa. Mix with black beans, tomatoes, and spices. Stuff bell peppers and bake until tender."
+},
+{
+"id" : 5,
+"username" : "sweettreatsbylisa",
+"title" : "Strawberry Cheesecake Bars",
+"description" : "These cheesecake bars are made with a graham cracker crust and topped with fresh strawberries.",
+"category" : "Dessert",
+"ingredients" : ["Cream Cheese", "Graham Crackers", "Strawberries", "Sugar"],
+"instructions" : "Mix cream cheese, sugar, and vanilla. Press graham cracker crust into pan. Pour filling over crust and bake. Top with sliced strawberries."
+},
+{
+"id" : 6,
+"username" : "bakersdelight",
+"title" : "Classic Apple Pie",
+"description" : "This classic apple pie is made with a flaky pastry crust and spiced apple filling.",
+"category" : "Dessert",
+"ingredients" : ["Apples", "Flour", "Butter", "Cinnamon"],
+"instructions" : "Mix flour and butter to make crust. Mix apples, sugar, cinnamon, and flour for filling. Pour filling into crust and bake."
+}
     ],
 
     "users":[]
